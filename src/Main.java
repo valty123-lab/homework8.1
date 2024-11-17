@@ -31,9 +31,9 @@ public class Main {
             System.out.println(year + " год - не високосный");
         }
         System.out.println("Год " + year + " является високосным: " + isLeapYear(year));
-        System.out.println("\nЗадание 2");
+        System.out.println("Задание 2");
         System.out.println(operationSystem(2019, 1));
-        System.out.println("\nЗадание 3");
+        System.out.println("Задание 3");
         int deliveryDistance = 95;
         System.out.println("Потребуется дней: " + delivery(deliveryDistance));
     }
